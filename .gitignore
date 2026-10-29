@@ -1,0 +1,5 @@
+# Logs and caches
+*.log
+*.dxvk-cache
+.DS_Store
+Thumbs.db
